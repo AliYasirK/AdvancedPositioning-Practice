@@ -1,0 +1,28 @@
+#boxG {
+  background-color: green;
+  border-style: unset;
+}
+
+#IDbox {
+  width: 150px;
+  border: 2px solid green;
+  padding: 0px;
+  margin: 0px;
+  background-color: green;
+}
+
+.B {
+  width: 150px;
+  border: 2px solid lightgray;
+  padding: 0px;
+  margin: 0px;
+  background-color: lightgray;
+}
+
+.A {
+  width: 170px;
+  border: 2px;
+  padding: 0px;
+  margin: 0px;
+  background-color: ;
+}
